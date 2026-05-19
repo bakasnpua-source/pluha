@@ -26,7 +26,7 @@
 #include "platform.h"
 
 #define VTX_SMARTAUDIO_MIN_BAND 1
-#define VTX_SMARTAUDIO_MAX_BAND 5
+#define VTX_SMARTAUDIO_MAX_BAND 10
 #define VTX_SMARTAUDIO_MIN_CHANNEL 1
 #define VTX_SMARTAUDIO_MAX_CHANNEL 8
 
@@ -37,7 +37,7 @@
 #define VTX_SMARTAUDIO_DEFAULT_POWER_COUNT 4
 #define VTX_SMARTAUDIO_DEFAULT_POWER 1
 
-#define VTX_SMARTAUDIO_MIN_FREQUENCY_MHZ 5000        //min freq in MHz
+#define VTX_SMARTAUDIO_MIN_FREQUENCY_MHZ 4990        //min freq in MHz
 #define VTX_SMARTAUDIO_MAX_FREQUENCY_MHZ 5999        //max freq in MHz
 
 // opmode flags, GET side
