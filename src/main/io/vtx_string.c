@@ -83,7 +83,7 @@ const char * const vtx1G3BandNames[VTX_STRING_1G3_BAND_COUNT + 1] = {
     "B",
 };
 
-const char vtx1G3BandLetter[VTX_STRING_1G3_BAND_COUNT + 1] =  {'-', 'A', 'B'};
+const char vtx1G3BandLetter[VTX_STRING_1G3_BAND_COUNT + 1] = {'-', 'A', 'B'};
 
 const char * const vtx1G3ChannelNames[VTX_STRING_1G3_CHAN_COUNT + 1] = {
     "-", "1", "2", "3", "4", "5", "6", "7", "8",
